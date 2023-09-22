@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166475449371",
+    "project_id": "ecommapp-cd442",
+    "storage_bucket": "ecommapp-cd442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166475449371:android:3b5f27009ca51496f0a4be",
+        "android_client_info": {
+          "package_name": "com.alensoft.ecommapp23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166475449371-gvsvh5dg9feq3bh0hc3d8i4n4mva9jhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alensoft.ecommapp23",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "166475449371-id9t6s7vnst9ecpdu2gn0ioc0uh1o2me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5UcI-NHlALzOPgpRfe2Kz4HPL8skW40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166475449371-id9t6s7vnst9ecpdu2gn0ioc0uh1o2me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
